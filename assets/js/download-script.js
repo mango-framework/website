@@ -32,12 +32,12 @@ __download =`
         </div>
     </div>
 
-    <div class="mango-cover">
+    <div class="mango-cover mango-cover-final">
         <div class="form-text">
-            For <span class="mango" title="Mango's Component infrastructure">Mango Seed</span> Paste this code to among &lt;/body&gt; and &lt;/html&gt; :
+            For <span class="mango" title="Mango's JS infrastructure">Mango Seed</span> Paste this code to among &lt;/body&gt; and &lt;/html&gt; :
         </div>
         <div class="code">
-            &lt;script href="Coming soon !" &gt;&lt;/script&gt;
+            &lt;script href="https://mango-framework.github.io/mango/seed/mango-seed-pack.js" &gt;&lt;/script&gt;
         </div>
     </div>
 `;
